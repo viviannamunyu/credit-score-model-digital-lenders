@@ -7,7 +7,7 @@ This project developed a machine learning-based credit scorecard model to assess
 
 Using Logistic Regression, Weight of Evidence (WOE), and Information Value (IV), the model generates transparent and explainable credit scores that support faster and data-driven lending decisions.
 
-The project addresses a key challenge in digital lending: accurately assessing credit risk for applicants who may have limited credit history while maintaining model interpretability and regulatory transparency. 【1-d1f5e4】
+The project addresses a key challenge in digital lending: accurately assessing credit risk for applicants who may have limited credit history while maintaining model interpretability and regulatory transparency.
 
 ## Problem Statement
 
@@ -25,8 +25,6 @@ This project aimed to develop a data-driven credit scorecard model that:
 - Classifies borrowers into risk categories
 - Supports informed lending decisions
 
-【1-d1f5e4】
-
 ## Objectives
 
 ### General Objective
@@ -38,8 +36,6 @@ Develop a credit scorecard model for digital lenders using Logistic Regression a
 - Determine credit scores for loan applicants
 - Rate customer creditworthiness based on credit scores
 - Evaluate the effectiveness of the scoring model in managing credit risk
-
-【1-d1f5e4】
 
 ## Dataset
 
@@ -64,11 +60,9 @@ Develop a credit scorecard model for digital lenders using Logistic Regression a
 - Marital Status
 - Property Area
 
-【1-d1f5e4】
-
 ## Methodology
 
-This project followed the **CRISP-DM (Cross Industry Standard Process for Data Mining)** framework. 【1-d1f5e4】
+This project followed the **CRISP-DM (Cross Industry Standard Process for Data Mining)** framework.
 
 ### 1. Business Understanding
 
@@ -114,8 +108,6 @@ Evaluated model performance using:
 
 Converted model outputs into interpretable credit scores and customer credit ratings.
 
-【1-d1f5e4】
-
 ## Feature Engineering
 
 To improve predictive performance, the following techniques were applied:
@@ -142,8 +134,6 @@ Continuous variables were grouped into bins to:
 - Improve scorecard stability
 - Enable credit score generation
 
-【1-d1f5e4】
-
 ## Model Performance
 
 The Logistic Regression model achieved the following results:
@@ -156,13 +146,13 @@ The Logistic Regression model achieved the following results:
 | Gini Coefficient | 0.6371 |
 | KS Statistic | 0.6791 |
 
-These results demonstrate strong discriminatory power between borrowers likely to default and those likely to repay their loans. 【1-d1f5e4】
+These results demonstrate strong discriminatory power between borrowers likely to default and those likely to repay their loans.
 
 ## Key Findings
 
 ### Credit History Matters
 
-Applicants with stronger credit histories had significantly higher approval rates. 【1-d1f5e4】
+Applicants with stronger credit histories had significantly higher approval rates.
 
 ### Income Alone Is Not Sufficient
 
