@@ -29,7 +29,7 @@ This project aimed to develop a data-driven credit scorecard model that:
 
 ### General Objective
 
-Develop a credit scorecard model for digital lenders using Logistic Regression and Machine Learning techniques. 【1-d1f5e4】
+Develop a credit scorecard model for digital lenders using Logistic Regression and Machine Learning techniques.
 
 ### Specific Objectives
 
